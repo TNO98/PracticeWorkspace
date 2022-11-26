@@ -1,0 +1,13 @@
+127.0.0.1 - - [12/Nov/2022:01:29:29 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:01:29:41 +0530] "GET /FlyAway/booking.html HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:01:29:41 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:01:35:21 +0530] "GET /FlyAway/Registration.jsp HTTP/1.1" 500 6765
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:03:37 +0530] "GET /FlyAway/register.jsp HTTP/1.1" 500 6765
+127.0.0.1 - - [12/Nov/2022:02:21:16 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:21:16 +0530] "GET /Hibernate/index.html HTTP/1.1" 200 234
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:22:27 +0530] "GET /Hibernate/index.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:22:54 +0530] "GET /Hibernate/index.html?myname= HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:23:03 +0530] "GET /Hibernate/index.html?myname= HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:23:08 +0530] "GET /Hibernate/index.html?myname=4567 HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:24:10 +0530] "GET /Hibernate/index.html?myname=4567 HTTP/1.1" 200 289
+0:0:0:0:0:0:0:1 - - [12/Nov/2022:02:24:15 +0530] "GET /Hibernate/index.html?yu=gyugu&myname=4567 HTTP/1.1" 200 289
