@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private Student populateStudent(HttpServletRequest request)&apos; from &apos;com.malay.servlets.AddProduct.doPost(...)&apos; to &apos;com.malay.servlets.AddProduct&apos;&#x0D;&#x0A;- Original project: &apos;HibernateRelationship&apos;&#x0D;&#x0A;- Method name: &apos;populateStudent&apos;&#x0D;&#x0A;- Destination type: &apos;com.malay.servlets.AddProduct&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Generate method comment" comments="true" description="Extract method &apos;populateStudent&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.malay.servlets{AddProduct.java" name="populateStudent" replace="false" selection="1384 1249" stamp="1663975246773" version="1.0" visibility="2"/>
+</session>

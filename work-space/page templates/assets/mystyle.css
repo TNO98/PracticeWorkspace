@@ -1,0 +1,16 @@
+.container{
+        
+    background: rgba(255, 255, 255, 0.73);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.4px);
+    -webkit-backdrop-filter: blur(2.4px);
+    border: 2px solid rgba(116, 3, 3, 0.88);
+    padding: 2rem;
+    width: 30%;
+    margin: 2rem;
+}
+body{
+    background-color: blueviolet;
+   
+}

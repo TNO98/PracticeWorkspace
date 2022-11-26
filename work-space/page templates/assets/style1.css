@@ -1,0 +1,27 @@
+.container{
+    border: solid 2px black;
+    padding: 10px;
+    background: rgba(230, 24, 24, 0.08);
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.form{
+    width: 25%;
+    border: solid 2px blue;
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+    border: solid 2px rgba(255, 255, 255, 0.027);
+    padding: 3rem;
+}
+body{
+    background: linear-gradient(90deg,
+             rgba(214, 250, 216, 0.08),
+                 rgba(235, 253, 239,0.1)),
+                    url("flight.jpg");
+    background-size: cover;
+    background-position: top; 
+
+}

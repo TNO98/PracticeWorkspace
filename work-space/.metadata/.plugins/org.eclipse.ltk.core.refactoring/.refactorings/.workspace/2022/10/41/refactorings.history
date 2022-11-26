@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;JSP-Taglib&apos;" deleteContents="true" description="Delete resource &apos;JSP-Taglib&apos;" element1="/JSP-Taglib" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1665002194141"/>
+</session>
